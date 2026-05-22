@@ -65,6 +65,6 @@ I used SMOTE to fix the imbalance and then trained a Random Forest model on top 
 
 ---
 
-Made by Yash
-B.E. IT — LDRP-ITR, KSV (2026-27)
+Made by Sumit
+B.E. CE — LDRP-ITR, KSV (2026-27)
 
